@@ -32,7 +32,7 @@
         "USE_DYN_PHASE_SHIFT": [ { "value": "false", "resolve_type": "user", "format": "bool", "usage": "all" } ],
         "USE_DYN_RECONFIG": [ { "value": "false", "resolve_type": "user", "format": "bool", "usage": "all" } ],
         "JITTER_SEL": [ { "value": "No_Jitter", "resolve_type": "user", "usage": "all" } ],
-        "Plogicbricks.com:logicbricks:logisdhc:0.0RIM_IN_FREQ": [ { "value": "100.000", "resolve_type": "user", "format": "float", "usage": "all" } ],
+        "PRIM_IN_FREQ": [ { "value": "100.000", "resolve_type": "user", "format": "float", "usage": "all" } ],
         "PRIM_IN_TIMEPERIOD": [ { "value": "10.000", "resolve_type": "user", "format": "float", "usage": "all" } ],
         "IN_FREQ_UNITS": [ { "value": "Units_MHz", "resolve_type": "user", "usage": "all" } ],
         "PHASESHIFT_MODE": [ { "value": "WAVEFORM", "resolve_type": "user", "usage": "all" } ],

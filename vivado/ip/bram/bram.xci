@@ -4,7 +4,7 @@
     "xci_name": "bram",
     "component_reference": "xilinx.com:ip:blk_mem_gen:8.4",
     "ip_revision": "7",
-    "gen_directory": "../../../../CARAVEL.gen/sources_1/ip/bram",
+    "gen_directory": ".",
     "parameters": {
       "component_parameters": {
         "Component_Name": [ { "value": "bram", "resolve_type": "user", "usage": "all" } ],

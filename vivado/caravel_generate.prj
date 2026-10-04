@@ -1,8 +1,0 @@
-# vivado tcl script that will generate a project in 
-# the project folder with all of our junk in it 
-
-set project_name "caravel_kria"
-set board "xc7a100tcsg324-1"
-
-create_project -force $project_name ./project -part $part
-set_property BOARD_PART "digilentinc.com:nexys-a7-100t:part0:1.2" [current_project]
