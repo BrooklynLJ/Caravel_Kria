@@ -4,7 +4,7 @@
     "xci_name": "bram",
     "component_reference": "xilinx.com:ip:blk_mem_gen:8.4",
     "ip_revision": "7",
-    "gen_directory": "gen",
+    "gen_directory": "../../../../CARAVEL.gen/sources_1/ip/bram",
     "parameters": {
       "component_parameters": {
         "Component_Name": [ { "value": "bram", "resolve_type": "user", "usage": "all" } ],
@@ -159,7 +159,7 @@
       },
       "project_parameters": {
         "ARCHITECTURE": [ { "value": "artix7" } ],
-        "BASE_BOARD_PART": [ { "value": "digilentinc.com:nexys-a7-100t:part0:1.2" } ],
+        "BASE_BOARD_PART": [ { "value": "digilentinc.com:arty-a7-100:part0:1.1" } ],
         "BOARD_CONNECTIONS": [ { "value": "" } ],
         "DEVICE": [ { "value": "xc7a100t" } ],
         "PACKAGE": [ { "value": "csg324" } ],
