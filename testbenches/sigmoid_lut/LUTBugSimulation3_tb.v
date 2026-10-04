@@ -2,7 +2,7 @@
 `define HALF_CYCLE 5
 
 //------------------------------------------------------------------------------
-// LUTBugSimulation2_tb.v  (baseline-style TB) (note: file type is set to SystemVerilog in Vivado)
+// LUTBugSimulation3_tb.v  (baseline-style TB) (note: file type is set to SystemVerilog in Vivado)
 //------------------------------------------------------------------------------
 // Targets: LUT_Module
 // Goal:
@@ -18,7 +18,7 @@
 //     this tb utilizes the DMA to send calculation requests to the LUT to check for errors
 //------------------------------------------------------------------------------
 
-module LUTBugSimulation2_tb();
+module LUTBugSimulation3_tb();
 
   // Universal
   reg clock, reset;
